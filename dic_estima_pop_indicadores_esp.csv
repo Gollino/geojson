@@ -1,0 +1,10 @@
+variavel;tipo;descricao;fonte
+ano;texto;Ano de referência;Fundação Sistema Estadual de Análise de Dados – Seade
+cod_ibge;texto;Código oficial de 7 dígitos definido pelo IBGE para município;Instituto Brasileiro de Geografia e Estatística – IBGE 
+nome_mun;texto;Nome do município;Instituto Brasileiro de Geografia e Estatística – IBGE 
+populacao;numérico;Estimativa da população residente em 1 de julho;Fundação Sistema Estadual de Análise de Dados – Seade
+homens;numérico;Estimativa da população masculina residente em 1 de julho;Fundação Sistema Estadual de Análise de Dados – Seade
+mulheres;numérico;Estimativa da população feminina residente em 1 de julho;Fundação Sistema Estadual de Análise de Dados – Seade
+razao_sexo;numérico;Número de mulheres para cada 100 homens;Fundação Sistema Estadual de Análise de Dados – Seade
+id_media;numérico;Idade média da população residente;Fundação Sistema Estadual de Análise de Dados – Seade
+dens_demog;numérico;Número de habitantes por km2;Fundação Sistema Estadual de Análise de Dados – Seade
